@@ -1,10 +1,2 @@
+Using Python in Jupyter notebooks along with packages (pandas, numpy, scipy, matplotlib, pylab) in an attempt to create regression models for predicting if a first-year player (Rookie) in the National Basketball Association (NBA) will be projected to be an all-star.
 
-This is your group repo for your final project for COGS108.
-
-This repostory is private, including to other students in the class, but visible to COGS108 instructors. 
-
-This repository will be frozen on the due date - at 11:59pm on Tuesday, June 13th.
-
-Your final project will be graded based solely on a project notebook.
-
-Make sure you have a notebook called 'FinalProject.ipynb' present in this repository by the due date. 
